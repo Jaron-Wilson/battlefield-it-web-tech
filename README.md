@@ -3,4 +3,6 @@
 git add name-of-file.txt
 git commit -m"The purpose of this change"
 git push
+to open it on the stupid school laptop with access denied to users/ do:
+explorer .
 ```
