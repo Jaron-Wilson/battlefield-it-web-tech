@@ -106,7 +106,7 @@ nav > ul {
    padding-left: 5px;
 }
 
-nav > ul > li.newgroup {
+nav > ul > li:last-of-type {
    margin-top: 20px;
 }
 
