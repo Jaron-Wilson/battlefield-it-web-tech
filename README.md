@@ -6,3 +6,4 @@ git push
 to open it on the stupid school laptop with access denied to users/ do:
 explorer .
 ```
+https://git-scm.com/download/win
