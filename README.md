@@ -9,5 +9,3 @@ explorer .
 https://git-scm.com/download/win
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaron-Wilson)](https://github.com/Jaron-Wilson/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jaron-Wilson&repo=github-readme-stats)](https://github.com/Jaron-Wilson/github-readme-stats)
-
