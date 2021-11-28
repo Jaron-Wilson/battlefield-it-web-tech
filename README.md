@@ -7,3 +7,5 @@ to open it on the stupid school laptop with access denied to users/ do:
 explorer .
 ```
 https://git-scm.com/download/win
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaron-Wilson)](https://github.com/anuraghazra/github-readme-stats)
