@@ -8,4 +8,4 @@ explorer .
 ```
 https://git-scm.com/download/win
 
-(https://github-readme-stats.vercel.app/api?username=Jaron-Wilson)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaron-Wilson)
