@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+/*
+   New Perspectives on HTML and CSS, 7th Edition
+   Tutorial 8
+   Case Problem 1
+
+   Rhetoric in the United States Styles for Media
+   Author: Jaron Wilson
+   Date: 5-16-22
+
+   Filename: ws_media.css
+
+*/
+
+/* Video Player Styles */
+
+video {
+  display: block;
+  width: 90%;
+  margin: 5px auto;
+}
+
+@media only screen and (min-width: 521px) {
+
+video {
+  width: 360px;
+  float: right;
+  margin: 10px;
+}
+}
+
+/* Track Styles */
+
+::cue {
+  font: 1.3em sans-serif;
+  color: rgba(221,128,160);
+  background: rgba(255, 255, 255, 0.8);
+}
